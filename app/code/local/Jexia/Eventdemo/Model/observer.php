@@ -1,4 +1,5 @@
 <?php
+
 class Jexia_Eventdemo_Model_Observer {
 
   public function logCustomer($observer) {

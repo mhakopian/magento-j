@@ -7,9 +7,7 @@
         </modules>
         <global>
             <models>
-                <Jexia_Eventdemo>
-                    <class>Jexia_Eventdemo_Model</class>
-                </Jexia_Eventdemo>
+                <jexia_eventdemo>Jexia_Eventdemo_Model</jexia_eventdemo>
             </models>
             <events>
                 <customer_login>

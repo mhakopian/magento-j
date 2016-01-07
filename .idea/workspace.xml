@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6a22dc8e-75ca-45f2-9830-626e2cf5675b" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/code/local/Jexia/Eventdemo/Model/observer.php" afterPath="$PROJECT_DIR$/app/code/local/Jexia/Eventdemo/Model/observer.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/code/local/Jexia/Eventdemo/etc/config.xml" afterPath="$PROJECT_DIR$/app/code/local/Jexia/Eventdemo/etc/config.xml" />
     </list>
     <ignored path="magento-j.iws" />
@@ -34,21 +35,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="config.xml" pinned="false" current-in-tab="true">
+      <file leaf-file-name="config.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/code/local/Jexia/Eventdemo/etc/config.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.6277696">
-              <caret line="17" column="31" selection-start-line="17" selection-start-column="31" selection-end-line="17" selection-end-column="31" />
+            <state vertical-scroll-proportion="-16.346153">
+              <caret line="17" column="29" selection-start-line="17" selection-start-column="29" selection-end-line="17" selection-end-column="29" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="observer.php" pinned="false" current-in-tab="false">
+      <file leaf-file-name="observer.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/code/local/Jexia/Eventdemo/Model/observer.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-2.3584905">
-              <caret line="5" column="6" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
+            <state vertical-scroll-proportion="0.23076923">
+              <caret line="6" column="76" selection-start-line="6" selection-start-column="76" selection-end-line="6" selection-end-column="76" />
               <folding />
             </state>
           </provider>
@@ -62,8 +63,8 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/app/code/local/Jexia/Eventdemo/Model/observer.php" />
         <option value="$PROJECT_DIR$/app/code/local/Jexia/Eventdemo/etc/config.xml" />
+        <option value="$PROJECT_DIR$/app/code/local/Jexia/Eventdemo/Model/observer.php" />
       </list>
     </option>
   </component>
@@ -268,18 +269,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/code/local/Jexia/Eventdemo/Model/observer.php">
+    <entry file="file://$PROJECT_DIR$/app/code/local/Jexia/Eventdemo/etc/config.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-2.3584905">
-          <caret line="5" column="6" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
+        <state vertical-scroll-proportion="-16.346153">
+          <caret line="17" column="29" selection-start-line="17" selection-start-column="29" selection-end-line="17" selection-end-column="29" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/code/local/Jexia/Eventdemo/etc/config.xml">
+    <entry file="file://$PROJECT_DIR$/app/code/local/Jexia/Eventdemo/Model/observer.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.6277696">
-          <caret line="17" column="31" selection-start-line="17" selection-start-column="31" selection-end-line="17" selection-end-column="31" />
+        <state vertical-scroll-proportion="0.23076923">
+          <caret line="6" column="76" selection-start-line="6" selection-start-column="76" selection-end-line="6" selection-end-column="76" />
           <folding />
         </state>
       </provider>

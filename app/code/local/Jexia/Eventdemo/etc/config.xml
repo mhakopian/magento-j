@@ -15,11 +15,11 @@
                 <customer_login>
                     <observers>
 
-                        <jexia_eventdemo>
+                        <get_jexia_eventdemo>
                             <type>model</type>
                             <class>Jexia_Eventdemo_Model_Observer</class>
                             <method>logCustomer</method>
-                        </jexia_eventdemo>
+                        </get_jexia_eventdemo>
 
                     </observers>
                 </customer_login>

@@ -2,8 +2,8 @@
      <config>
        <modules>
          <Jexia_Eventdemo>
-            <active>true</active>
-            <codePool>local</codePool>
-        </Jexia_Eventdemo>
+             <codePool>local</codePool>
+             <active>true</active>
+         </Jexia_Eventdemo>
       </modules>
    </config>

@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6a22dc8e-75ca-45f2-9830-626e2cf5675b" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/code/local/Jexia/Eventdemo/Model/observer.php" afterPath="$PROJECT_DIR$/app/code/local/Jexia/Eventdemo/Model/observer.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/code/local/Jexia/Eventdemo/etc/config.xml" afterPath="$PROJECT_DIR$/app/code/local/Jexia/Eventdemo/etc/config.xml" />
     </list>
     <ignored path="magento-j.iws" />
@@ -38,8 +37,8 @@
       <file leaf-file-name="config.xml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/code/local/Jexia/Eventdemo/etc/config.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.36927623">
-              <caret line="10" column="20" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
+            <state vertical-scroll-proportion="0.6277696">
+              <caret line="17" column="31" selection-start-line="17" selection-start-column="31" selection-end-line="17" selection-end-column="31" />
               <folding />
             </state>
           </provider>
@@ -279,8 +278,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/code/local/Jexia/Eventdemo/etc/config.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.36927623">
-          <caret line="10" column="20" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
+        <state vertical-scroll-proportion="0.6277696">
+          <caret line="17" column="31" selection-start-line="17" selection-start-column="31" selection-end-line="17" selection-end-column="31" />
           <folding />
         </state>
       </provider>

@@ -2,6 +2,7 @@
       <config>
         <global>
             <models>
+
                 <class>Jexia_Eventdemo_Model</class>
             </models>
             <events>
@@ -10,7 +11,7 @@
 
                         <eventdemo>
                             <type>model</type>
-                            <class>eventdemo/observer</class>
+                            <class>jexia/eventdemo/observer</class>
                             <method>logCustomer</method>
                         </eventdemo>
 

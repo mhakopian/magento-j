@@ -7,13 +7,13 @@
             <events>
                 <customer_login>
                     <observers>
-                        <jexia>
+
                         <eventdemo>
                             <type>model</type>
                             <class>eventdemo/observer</class>
                             <method>logCustomer</method>
                         </eventdemo>
-                        </jexia>
+
                     </observers>
                 </customer_login>
             </events>

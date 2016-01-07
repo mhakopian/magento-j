@@ -1,21 +1,19 @@
 <?xml version="1.0"?>
       <config>
-        <modules>
-          <Jexia_Eventdemo>
-          <version>0.1.0</version>
-          </Jexia_Eventdemo>
-        </modules>
-        <frontend>
-         <events>
-            <checkout_cart_product_add_after>
-                <observers>
-                   <Jexia_Eventdemo_Model_Observer>
-                      <type>singleton</type>
-                      <class>Jexia_Eventdemo_Model_Observer</class>
-                      <method>Mytestmethod</method>
-                   </Jexia_Eventdemo_Model_Observer>
-               </observers>
-            </checkout_cart_product_add_after>
-        </events>
-      </frontend>
+        <global>
+            <models>
+                <class>Jexia_Eventdemo_Model</class>
+            </models>
+            <events>
+                <customer_login>
+                    <observers>
+                        <eventdemo>
+                            <type>model</type>
+                            <class>eventdemo/observer</class>
+                            <method>logCustomer</method>
+                        </eventdemo>
+                    </observers>
+                </customer_login>
+            </events>
+        </global>
      </config>

@@ -1,2 +1,2 @@
 # magento-j
-Jast development
+Just development
